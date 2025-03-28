@@ -1,9 +1,6 @@
 # LEGAL-DESK
 The Legal Assistance Platform represents a significant advancement in the accessibility and 
-efficiency of legal services. By integrating innovative tools such as AI-driven chatbots, document 
-summarizers, and image authenticity verifiers, the platform bridges the gap between complex legal 
-systems and user-friendly solutions. 
-
+efficiency of legal services. 
 
 For users, it offers a reliable and straightforward way to navigate legal processes, empowering 
 them with knowledge and confidence. For legal professionals, it provides a modernized framework 
